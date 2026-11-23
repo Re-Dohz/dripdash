@@ -5,7 +5,8 @@ Built by Flexbox Pod at Webbo3 Academy, Frontend Development.
 
 Deployed by: REDOHZ, Webbo3 Frontend Development
 
-Live site: https://Redohz.github.io/dripdash/
+Live site: https://re-dohz.github.io/dripdash/
+
 
 ## What it is
 
