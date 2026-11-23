@@ -3,9 +3,9 @@
 A fashion shop with one immersive feature: AI try-on.
 Built by Flexbox Pod at Webbo3 Academy, Frontend Development.
 
-Deployed by: YOUR NAME HERE
+Deployed by: REDOHZ, Webbo3 Frontend Development
 
-Live site: https://your-username.github.io/dripdash/
+Live site: https://Redohz.github.io/dripdash/
 
 ## What it is
 
